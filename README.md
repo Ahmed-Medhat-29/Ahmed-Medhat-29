@@ -11,7 +11,7 @@
 &emsp;&nbsp; faculty of engieering at Mansoura university
 - 🌱 I’m currently learning about `SQL Server` in depth
 - 📫 How to reach me *ahmed.medhat.2029@gmail.com*
-- :smile: I’m currently open for a `full time` position
+<!-- - :smile: I’m currently open for a `full time` position-->
 - 📁 This is [MY RESUME](https://drive.google.com/file/d/1o-GJq0A9JehRnGn3cOFpxHCP-GHlCuGm)
 - 🌍 Always `learning new things`
 - :clock5: Doing my best 
